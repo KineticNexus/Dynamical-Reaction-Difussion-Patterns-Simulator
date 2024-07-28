@@ -36,5 +36,9 @@ An interactive, real-time simulation of reaction-diffusion systems using Python.
 
 ![image](https://github.com/user-attachments/assets/5635d8d9-79ea-46a0-a957-e72d90166441)
 
+## Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
+## License
+This project is MIT licensed.
 
