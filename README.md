@@ -42,3 +42,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## License
 This project is MIT licensed.
 
+## Inspired by WebGL Gray-Scott Explorer
+https://www.mrob.com/pub/comp/xmorphia/ogl/index.html
